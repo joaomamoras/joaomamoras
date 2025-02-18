@@ -24,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="30" alt="kaggle logo"  />
 </div>
 
-###
+## [Conecte-se comigo](https://my.bio/joaomamoras)
 
 <div align="left">
   <a href="https://www.linkedin.com/in/joaovictormamorim/" target="_blank">
