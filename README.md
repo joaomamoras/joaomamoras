@@ -36,9 +36,6 @@
   <a href="data.joaoamorim@hotmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Email&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
-  <a href="https://www.twitch.tv/mamoras" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  </a>
 </div>
 
 ###
